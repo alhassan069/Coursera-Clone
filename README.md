@@ -14,7 +14,8 @@ Cloning  a website https://www.coursera.org/in.
 ![App Screenshot](https://i.imgur.com/tk81IWK.png)
 
 ## Register Page
-![App Screenshot](https://i.imgur.com/YmTglwY.img)
+![App Screenshot](https://i.imgur.com/YmTglwY.png)
+
 
 # Technology used :
 We completed this project with the help of HTML, CSS, Javascript . We have used localstorage for registration and login functions.
